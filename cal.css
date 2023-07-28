@@ -1,0 +1,52 @@
+#first{
+    background-color: rgb(6, 1, 12);
+}
+
+button{
+    color: rgb(243, 245, 247);
+    padding: 15;
+    border-radius: 5px;
+    border: 2px outset rgb(250, 245, 245);
+    margin: 8;
+    font-size: 70px;
+}
+.A{
+    border-radius: 10px;
+    border: 5px inset rgb(3, 3, 5);
+    width: 300px;
+    height: 542px;
+    background-color: rgb(75, 65, 65);
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.B{
+    border-radius: 8px;
+    border: 3px solid rgb(250, 246, 246);
+    width:294px ;
+    height: 180px;
+    overflow-x: scroll;
+    
+}
+.C{
+    border-radius: 8px;
+    border: 3px solid rgb(248, 247, 247);
+    width:294px ;
+    height: 350px;
+
+}
+
+#second{
+    font-size: 30px;
+    background-color: black;
+    column-rule: white;
+    padding-top: 40px;
+    padding-bottom: 12px;
+   padding-left: 7px;
+   padding-right: 12px;
+}
+h1{
+    padding: 25px;
+    color: rgb(250, 247, 242);
+    font-size: 40px;
+   
+}
