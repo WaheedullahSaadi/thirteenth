@@ -105,3 +105,8 @@ function number16(){
     console.log(calculatio);
     document.getElementById('temp').innerHTML=calculatio;
 }
+
+
+
+
+    
